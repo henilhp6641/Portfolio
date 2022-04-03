@@ -1,6 +1,15 @@
-# untitled1
+# Portfolio
 
-A new Flutter project.
+A portfolio Flutter project where I describe my skills,education & project.
+
+# What I Learned
+* Dart Language
+* Flutter
+* ListTile
+* Reusable Widget
+* UI/UX Design
+
+## Note: I am providing image of all screen in repo.
 
 ## Getting Started
 
